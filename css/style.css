@@ -1,0 +1,13 @@
+body {
+    background-color: #333232;
+    color: aliceblue;
+    text-align: center;
+}
+
+.ball {
+    margin: 100px auto;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    border-color: #f39407;
+}
