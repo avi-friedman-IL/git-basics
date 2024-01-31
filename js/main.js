@@ -8,5 +8,6 @@ function onBallClick() {
     const elBall = document.querySelector('.ball')
     elBall.style.height = gPxNum + 'px'
     elBall.style.width = gPxNum + 'px'
+    elBall.style.backgroundColor = getRandomColor()
     elBall.innerText = gPxNum
 }
