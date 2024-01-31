@@ -10,4 +10,5 @@ body {
     width: 100px;
     border-radius: 50%;
     background-color: #f39407;
+    transition: 1s;
 }
